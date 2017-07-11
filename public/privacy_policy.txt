@@ -1,0 +1,54 @@
+This privacy policy governs your use of the software application Foxy Music (“Application”) for mobile devices that was created by Argishti Karapetyan. Foxy Music is a mobile music application that allows users to listen music for consumption on the mobile device.
+
+User Provided Information
+
+The Application obtains the information which provides VK social network.
+
+Login via VK mandatory in order to be able to use the basic features of the Application.
+
+When you login with us using your VK credentials and use the Application, VK social network generally provide your full name, user_id and your social network friends.
+
+Automatically Collected Information. 
+In addition, the Application may collect certain information automatically,
+including, but not limited to, the type of mobile device you use, your mobile
+devices unique device ID your mobile operating system and information about the way you use the Application. 
+
+Do third parties see and/or have access to information obtained by the Application? 
+Yes. We will share your VK unique id with third parties only in the ways that are described in this privacy statement.
+
+Automatic Data Collection and Advertising.
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and
+duration of usage. We work with advertisers and third party advertising
+networks, who need to know how you interact with advertising provided in the
+Application which helps us keep the cost of the Application free.
+Advertisers and advertising networks use some of the information collected by
+the Application, including, but not limited to, the unique identification ID of
+your mobile device.
+
+What are my opt-out rights?
+You can stop all collection of information by the Application
+easily by uninstalling the Application. You may use the standard uninstall
+processes as may be available as part of your mobile device or via the mobile
+application marketplace or network.
+
+Changes.
+This Privacy Policy may be updated from time to time for any reason. We will
+notify you of any changes to our Privacy Policy by posting the new Privacy
+Policy here and informing you notification. You are advised to
+consult this Privacy Policy regularly for any changes, as continued use is
+deemed approval of all changes.
+
+Your Consent.
+By using the Application,
+you are consenting to our processing of your information as set forth in this
+Privacy Policy now and as amended by us. \"Processing,\" means using cookies on
+a hand held device or using or touching information in any way,
+including, but not limited to, collecting, storing, deleting, using, combining
+and disclosing information, all of which activities will take place in the
+United States.
+
+Contact us.
+If you have any questions regarding privacy
+while using the Application, or have questions about our practices, please
+contact us via email at argisht992@gmail.com.
+
